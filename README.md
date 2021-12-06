@@ -7,7 +7,7 @@ In this model population is divided into subgroups.
 Everyone of them is evolving on its owm, and every few generations there is a migration of individuals to the other island. 
 There are specified two ways of migrating:
 1. Ring Topology - there are chosen best individuals from every island and they migrate to the adjacent island
-2. Star Topology - there chosen best individuals from all islands and copies of them go to every island in topology
+2. Star Topology - there are chosen best individuals from all islands and copies of them go to every island in topology
 
 
 Used libraries:
