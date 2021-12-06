@@ -12,11 +12,15 @@ There are specified two ways of migrating:
 
 Used libraries:
 1. numpy 
+```
 pip install numpy
+```
 
 2. cec2017-py
+```
 git clone https://github.com/tilleyd/cec2017-py
 cd cec2017-py
 python3 setup.py install
+```
 
 3. math
