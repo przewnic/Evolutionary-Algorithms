@@ -1,4 +1,4 @@
-# BoAI
+# Basics of Artificial Intelligence
 Project nr 1 - Basics of Artificial Intelligence
 
 Comparison of standard Evolutionary algorithm and version with an Island Model.
